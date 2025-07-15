@@ -1,40 +1,31 @@
-# Portafolio Personal - Miguel Angel Higuita
+# 💼 Portafolio Personal - Miguel Angel Higuita
 
-¡Bienvenido a mi portafolio personal! Este repositorio contiene una página web estática que muestra mi viaje como desarrollador Full Stack en formación, con un enfoque especial en mi proyecto destacado: **TaekwonData**, un gestor de datos para un semillero de Taekwondo.
+¡Bienvenido a mi portafolio personal!  
+Este repositorio presenta una página web estática que muestra mi crecimiento como desarrollador **Full Stack** en formación, con enfoque en el desarrollo web completo: desde la interfaz hasta la lógica del servidor y la gestión de datos.
 
-## Sobre Mí
-Soy Miguel Angel Higuita, un estudiante de grado 11° en el INEM José Félix de Restrepo, Medellín, con énfasis en ciencias e informática. Estoy comenzando en el mundo de la programación, con muchas ganas de aprender y crecer. Me apasiona construir proyectos útiles y estoy comprometido a mejorar mis habilidades en desarrollo web y software.
+---
 
-## Proyecto Destacado: TaekwonData
-- **Descripción**: TaekwonData es un proyecto realizado durante mi media técnica para gestionar la información de un semillero de Taekwondo fundado en 1976. Permite registrar estudiantes, años de práctica, logros y asistencia, utilizando HTML, CSS, JavaScript, Excel y Google Sheets.
-- **Rol**: Estudiante desarrollador.
-- **Aprendizajes**: Estructuración de datos, creación de formularios y trabajo en equipo.
-- **Enlace**: [Ver en GitHub](https://github.com/pablo-marin-636/taekwondata)
+## 👨‍💻 Sobre Mí
 
-## Estructura del Proyecto
-portfolio-miguel-higuita/
-├── index.html          # Página principal del portafolio
-├── css/                # Estilos del sitio
-│   ├── style.css
-├── js/                 # Scripts JavaScript
-│   ├── script.js
-├── images/             # Imágenes (opcional, placeholder incluido)
-│   ├── taekwondata-screenshot.jpg
+Soy **Miguel Angel Higuita**, estudiante de grado 11° del INEM José Félix de Restrepo (Medellín), con énfasis en ciencias e informática.  
+Actualmente me encuentro aprendiendo desarrollo web y programación con entusiasmo, disciplina y muchas ganas de crear soluciones útiles para las personas y la comunidad.
 
-text
+---
 
-Contraer
+## ⭐ Proyecto Destacado: [TaekwonData](https://github.com/AngelMastermind/Taekwondo)
 
-Ajuste
+**Descripción**:  
+`TaekwonData` es un gestor de datos desarrollado durante mi formación técnica para un semillero de Taekwondo creado en 1976. Permite registrar información de estudiantes, historial de práctica, logros y asistencias, combinando herramientas como Google Sheets y HTML.
 
-Copiar
-## Tecnologías Utilizadas
-- **HTML**: Estructura de la página.
-- **CSS**: Estilizado con una paleta negra y dorada personalizada.
-- **JavaScript**: Funcionalidades básicas como el botón de mensaje.
+- **Rol:** Estudiante desarrollador Full Stack
+- **Tecnologías:** HTML, CSS, JavaScript, Google Sheets, Excel
+- **Lo que aprendí:**  
+  - Estructuración de datos  
+  - Validación de formularios  
+  - Colaboración en equipo  
+  - Pensamiento lógico aplicado a la programación
 
-## Cómo Configurar y Probar Localmente
-1. **Clona el Repositorio**:
-   ```bash
-   git clone https://github.com/pablo-marin-636/portfolio-miguel-higuita.git
-   cd portfolio-miguel-higuita
+---
+
+
+
